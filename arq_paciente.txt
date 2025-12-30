@@ -1,0 +1,54 @@
+pacientes cadastrados: 10
+---------------------------
+ID: 3
+Nome: Antonio
+contato: 876455antonio@gmail.com
+---------------------------
+ID: 2
+Nome: Roberto Carlos
+contato: 211324
+---------------------------
+ID: 4
+Nome: pablo
+contato: 398482745
+---------------------------
+ID: 5
+Nome: marcio
+contato: m.arcio@gmail.com
+---------------------------
+ID: 6
+Nome: gabrielle
+contato: gabi@gmail.com
+---------------------------
+ID: 7
+Nome: yigor ferreira
+contato: 23235487873
+---------------------------
+ID: 8
+Nome: fabio junior
+contato: fabinho@gmail.com
+---------------------------
+ID: 9
+Nome: magnos blade
+contato: 212142443
+---------------------------
+ID: 10
+Nome: Shallan
+contato: padraoshallan@gmail.com
+---------------------------
+ID: 11
+Nome: Jasnah Kolin
+contato: sanguespectro@gmail.com
+---------------------------
+ID: 12
+Nome: kaladin
+contato: filhodatempestade@gmail.com
+---------------------------
+ID: 13
+Nome: Dalinar
+contato: sardeas@gmail.com
+---------------------------
+ID: 14
+Nome: sly
+contato: slypherna@gmail.com
+---------------------------

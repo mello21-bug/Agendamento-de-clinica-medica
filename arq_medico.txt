@@ -1,0 +1,62 @@
+medicos cadastrados:
+---------------------------
+ID: 5
+Nome: Amanda Queiroz
+Especialidade: Cardiologista
+Horario: 08:30 - 12:00
+Horario: 14:00 - 16:30
+---------------------------
+ID: 3
+Nome: Carlos
+Especialidade: Cardiologista
+Horario: -1:-1 - -1:-1
+Horario: 14:00 - 18:00
+---------------------------
+ID: 2
+Nome: Emerson
+Especialidade: Clinico Geral
+Horario: 10:00 - 12:00
+Horario: 14:00 - 18:00
+---------------------------
+ID: 7
+Nome: Lorena 
+Especialidade: Dermatologista
+Horario: 08:00 - 11:30
+Horario: 14:50 - 16:30
+---------------------------
+ID: 6
+Nome: Luiza
+Especialidade: Dermatologista
+Horario: 06:30 - 10:30
+Horario: -1:-1 - -1:-1
+---------------------------
+ID: 4
+Nome: Raissa Ferraz
+Especialidade: Dermatologista
+Horario: -1:-1 - -1:-1
+Horario: 15:00 - 17:30
+---------------------------
+ID: 8
+Nome: Joao
+Especialidade: Pediatra
+Horario: 06:40 - 11:00
+Horario: 15:30 - 17:50
+---------------------------
+ID: 9
+Nome: Heloisa
+Especialidade: Psicologo
+Horario: 08:30 - 11:00
+Horario: 14:30 - 18:00
+---------------------------
+ID: 10
+Nome: Fernanda
+Especialidade: Psicologo
+Horario: -1:-1 - -1:-1
+Horario: 14:20 - 17:40
+---------------------------
+ID: 11
+Nome: Mariana
+Especialidade: Pediatra
+Horario: 06:30 - 10:30
+Horario: -1:-1 - -1:-1
+---------------------------

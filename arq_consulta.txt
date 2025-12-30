@@ -1,0 +1,119 @@
+consultas cadastradas
+---------------------------
+ID: 2
+ID do medico: 4
+ID do paciente: 2
+Data: 11/09/2025
+Prioridade: 0
+Horario de inicio 15:00
+Horario de fim 15:30
+Status da consulta: Falta
+---------------------------
+ID: 3
+ID do medico: 6
+ID do paciente: 3
+Data: 01/09/2025
+Prioridade: 1
+Horario de inicio 06:30
+Horario de fim 07:00
+Status da consulta: Agendada
+---------------------------
+ID: 4
+ID do medico: 6
+ID do paciente: 2
+Data: 02/09/2025
+Prioridade: 0
+Horario de inicio 07:00
+Horario de fim 07:30
+Status da consulta: Agendada
+---------------------------
+ID: 5
+ID do medico: 6
+ID do paciente: 3
+Data: 03/09/2025
+Prioridade: 0
+Horario de inicio 07:30
+Horario de fim 08:00
+Status da consulta: Agendada
+---------------------------
+ID: 6
+ID do medico: 11
+ID do paciente: 0
+Data: 10/10/2025
+Prioridade: 1
+Horario de inicio 06:30
+Horario de fim 07:00
+Status da consulta: Agendada
+---------------------------
+ID: 7
+ID do medico: 11
+ID do paciente: 13
+Data: 10/10/2025
+Prioridade: 0
+Horario de inicio 08:30
+Horario de fim 09:00
+Status da consulta: Agendada
+---------------------------
+ID: 8
+ID do medico: 9
+ID do paciente: 11
+Data: 10/10/2025
+Prioridade: 0
+Horario de inicio 17:00
+Horario de fim 17:30
+Status da consulta: Agendada
+---------------------------
+ID: 9
+ID do medico: 11
+ID do paciente: 13
+Data: 10/10/2025
+Prioridade: 0
+Horario de inicio 09:00
+Horario de fim 09:30
+Status da consulta: Agendada
+---------------------------
+ID: 10
+ID do medico: 9
+ID do paciente: 9
+Data: 10/10/2025
+Prioridade: 0
+Horario de inicio 15:00
+Horario de fim 15:30
+Status da consulta: Agendada
+---------------------------
+ID: 11
+ID do medico: 7
+ID do paciente: 6
+Data: 10/10/2025
+Prioridade: 0
+Horario de inicio 10:30
+Horario de fim 11:00
+Status da consulta: Agendada
+---------------------------
+ID: 12
+ID do medico: 11
+ID do paciente: 2
+Data: 10/10/2025
+Prioridade: 0
+Horario de inicio 09:30
+Horario de fim 10:00
+Status da consulta: Agendada
+---------------------------
+ID: 13
+ID do medico: 11
+ID do paciente: 11
+Data: 12/10/2025
+Prioridade: 0
+Horario de inicio 08:30
+Horario de fim 09:00
+Status da consulta: Agendada
+---------------------------
+ID: 14
+ID do medico: 11
+ID do paciente: 13
+Data: 14/10/2025
+Prioridade: 0
+Horario de inicio 08:30
+Horario de fim 09:00
+Status da consulta: Agendada
+---------------------------
